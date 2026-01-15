@@ -25,6 +25,7 @@ setup(
     entry_points={
         'console_scripts': [
             'talker = iqmattso_py_pubsub.publisher_member_function:main',
+            'listener = iqmattso_py_pubsub.subscriber_member_function:main',
         ],
     },
 )
