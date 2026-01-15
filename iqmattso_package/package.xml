@@ -3,7 +3,7 @@
 <package format="3">
   <name>iqmattso_package</name>
   <version>0.0.0</version>
-  <description>Beginner tutorials + custom talker/listener example</description>
+  <description>Beginner client libraries tutorials practice package</description>
   <maintainer email="iqmattso@mtu.edu"> Ian Q. Mattson </maintainer>
   <license>Apache-2.0</license>
 
