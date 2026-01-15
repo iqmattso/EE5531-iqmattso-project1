@@ -3,8 +3,8 @@
 <package format="3">
   <name>iqmattso_package</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="quin@todo.todo">quin</maintainer>
+  <description>Beginner tutorials + custom talker/listener example</description>
+  <maintainer email="iqmattso@mtu.edu"> Ian Q. Mattson </maintainer>
   <license>Apache-2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
