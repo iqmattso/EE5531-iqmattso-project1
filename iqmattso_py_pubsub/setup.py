@@ -13,9 +13,9 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='quin',
+    maintainer='Ian Q. Mattson',
     maintainer_email='iqmattso@mtu.edu',
-    description='TODO: Package description',
+    description='Examples of minimal publisher/subscriber using rclpy',
     license='Apache-2.0',
     extras_require={
         'test': [
@@ -24,6 +24,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            'talker = iqmattso_py_pubsub.publisher_member_function:main',
         ],
     },
 )

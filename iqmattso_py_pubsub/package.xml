@@ -4,7 +4,7 @@
   <name>iqmattso_py_pubsub</name>
   <version>0.0.0</version>
   <description>Examples of minimal publisher/subscriber using rclpy</description>
-  <maintainer email="iqmattso@mtu.edu"> Ian Q. Mattson </maintainer>
+  <maintainer email="iqmattso@mtu.edu">Ian Q. Mattson</maintainer>
   <license>Apache-2.0</license>
 
   <exec_depend>rclpy</exec_depend>
